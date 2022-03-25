@@ -1,0 +1,21 @@
+.back {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(321.92deg, #027e7e 9.44%, #20aee667 84.54%);
+}
+.imgpokedex{
+    width: 50%;
+    height: 50%;
+    z-index: 0;
+}
+.orden {
+    display: relative;
+    flex-direction: colum;
+    align-items: center;
+}
+.imgpokemon{
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    z-index: 1;
+}
